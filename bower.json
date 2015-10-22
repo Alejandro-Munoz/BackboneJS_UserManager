@@ -1,0 +1,24 @@
+{
+  "name": "UserManager",
+  "version": "0.0.0",
+  "authors": [
+    "Alejandro <alejandro.z.munoz@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "underscore": "~1.8.3",
+    "backbone": "~1.2.3"
+  }
+}
